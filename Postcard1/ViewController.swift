@@ -39,6 +39,7 @@ class ViewController: UIViewController {
         mailButton.setTitle("Sent", forState: UIControlState.Normal)
         
         // enterNameTextField.hidden = true
+        // adding a test comment to test commits
     }
 }
 
